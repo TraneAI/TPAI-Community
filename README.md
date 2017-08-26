@@ -4,6 +4,17 @@ Token for the Artificial Intelligence Protocol (the ai token)
 
 ## FAQ
 
+#### Is TAIP secure?
+
+Yes. Each TAIP is secured.
+
+#### Is my data safe?
+
+case
+
+#### Can I swap TAIP with cash?
+
+No. TAIP can only be swapped using Ether or Bitcoin.
 
 
 ## How to Contribute?
